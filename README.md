@@ -8,7 +8,7 @@ And I love playing games.
 
 ## 🔧 My Tech Stack
 
-- 💻 Programming Languages: Python, JavaScrip
+- 💻 Programming Languages: Python, JavaScript
 - 🌐 Frontend: HTML, CSS
 
 ---
