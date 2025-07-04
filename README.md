@@ -21,7 +21,7 @@ And I love playing games.
 
 ## 📊 GitHub Statistics
 
-📊 Automatically updated stats (optional):
+📊 Automatically updated stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AchryFI&show_icons=true&theme=dracula)
 
