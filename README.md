@@ -23,7 +23,7 @@ And I love playing games.
 
 📊 Automatically updated stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AchryFI&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AchryFI&show_icons=true&theme=ambient_gradient)
 
 ---
 
